@@ -5,7 +5,7 @@ while x not in ["rock","paper", "scissors"]:
   x=input("Rock, paper, scissors say shoot!: \n \n").lower()
   print(" ")
   if x not in ["rock", "paper", "scissors"]:
-    print("Choose between rock, paper or scissors you dumbass")
+    print("Choose between rock, paper or scissors you goon")
     print(" ")
 
 import random
@@ -52,7 +52,7 @@ while l=="yes":
     x=input("Rock, paper, scissors say shoot!: \n \n")
     print(" ")
     if x not in ["rock", "paper", "scissors"]:
-      print("Choose between rock, paper or scissors you dumbass")
+      print("Choose between rock, paper or scissors you goon")
       print(" ")
 
   import random
