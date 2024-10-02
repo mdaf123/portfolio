@@ -67,9 +67,8 @@ public class Main {
         }
         if (modeFound = true) {
         	System.out.println("Mode: " + mode);
-        } else {
-            System.out.println("Mode: none");
         }
+        System.out.println("Coefficient of Variation: " + (Math.sqrt((standevthingy/lengthoflist)))/(sum/lengthoflist));
 	}
 
 }
